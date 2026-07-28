@@ -1,28 +1,35 @@
 # Hi, I'm Adrian 👋
 
-Data science student building in public — one tested, documented commit at a time.
+**Junior software developer · final-year student at KCA University, graduating November 2026 · seeking an industrial attachment.**
 
-## 🔭 Current focus
+I build complete systems rather than demos — role-based access, realtime updates,
+tests and CI, not just a working screen. Strongest in Python and TypeScript,
+comfortable from database schema through to deployment.
 
-**[sales-forecaster](https://github.com/ctrl-kinge/sales-forecaster)** — supermarket
-sales forecasting, from raw retail transactions to a deployed dashboard. Every model
-fights a seasonal-naive baseline on an honest evaluation harness, and the README
-documents the losses as carefully as the wins.
-
-## 🛠️ What I'm building
+## 🔭 What I've built
 
 | Project | What it is |
 |---------|------------|
-| [sales-forecaster](https://github.com/ctrl-kinge/sales-forecaster) | Time-series forecasting with tested data pipeline, baselines, and model comparisons |
-| [data-science-notebooks](https://github.com/ctrl-kinge/data-science-notebooks) | Weekly narrated data analyses — pandas, visualization, real datasets |
-| [dsa-practice](https://github.com/ctrl-kinge/dsa-practice) | Algorithms practice — every solution tested, with complexity notes |
-| [KhetiaIS](https://github.com/ctrl-kinge/KhetiaIS) | Flask + MySQL inventory management system with a 50-test suite and CI |
-| [trainer-app](https://github.com/ctrl-kinge/trainer-app) | Multi-tenant fitness SaaS — Next.js, Prisma, Auth.js |
+| [KhetiaIS](https://github.com/ctrl-kinge/KhetiaIS) | **Final-year project** — supermarket inventory system in Flask + MySQL. Four roles, cart & checkout that updates stock on purchase, low-stock alerts, trend reporting. Tested under CI |
+| [Food-Module](https://github.com/ctrl-kinge/Food-Module) | Multi-role food delivery platform in Next.js + TypeScript — customer, rider and restaurant dashboards, live Socket.IO tracking, traffic-aware Mapbox ETAs, Stripe split tipping. Vitest + Playwright |
+| [fraud-detection-cpp4103](https://github.com/ctrl-kinge/fraud-detection-cpp4103) | Mobile-money fraud detection over 6.3M PaySim transactions where fraud is 0.13% of records — four classifiers compared on precision-recall, served through a Streamlit checker |
+| [sales-forecaster](https://github.com/ctrl-kinge/sales-forecaster) | Retail demand forecasting — five models under a rolling-origin backtest, with a [live dashboard](https://ctrl-kinge.github.io/sales-forecaster/) in a multi-stage Docker build |
+
+## 🧪 Also here
+
+[dsa-practice](https://github.com/ctrl-kinge/dsa-practice) — algorithms in Python and C++, every solution with complexity notes and tests under CI ·
+[data-science-notebooks](https://github.com/ctrl-kinge/data-science-notebooks) — weekly pandas and visualisation analyses ·
+[web-foundry](https://github.com/ctrl-kinge/web-foundry) — sites rebuilt from scratch in plain HTML, CSS and JavaScript ·
+[kudget](https://github.com/ctrl-kinge/kudget) — expense-tracker REST API in Kotlin + Ktor ·
+[card-cascade](https://github.com/ctrl-kinge/card-cascade) — mobile solitaire game in Unity and C#
 
 ## ⚙️ Tools I work with
 
-`Python` · `pandas` · `scikit-learn` · `Flask` · `pytest` · `TypeScript` · `Next.js` · `MySQL` · `PostgreSQL` · `GitHub Actions`
+**Languages** `Python` · `TypeScript` · `JavaScript` · `C#` · `Java` · `SQL`
+**Web** `Next.js` · `React` · `Tailwind` · `NextAuth` · `Socket.IO` · `REST APIs`
+**Data** `PostgreSQL` · `MySQL` · `Prisma` · `pandas` · `scikit-learn` · `XGBoost`
+**Testing & DevOps** `pytest` · `Vitest` · `Playwright` · `Docker` · `GitHub Actions`
 
 ## 📫 Reach me
 
-[njungeadrian@gmail.com](mailto:njungeadrian@gmail.com)
+[njungeadrian@gmail.com](mailto:njungeadrian@gmail.com) · Nairobi — on-site, hybrid or remote · available immediately
