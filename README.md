@@ -1,6 +1,6 @@
 # Hi, I'm Adrian 👋
 
-**Final-year student at KCA University. **
+**Junior software developer · final-year student at KCA University, graduating November 2026 · seeking an industrial attachment.**
 
 I build complete systems rather than demos — role-based access, realtime updates,
 tests and CI, not just a working screen. Strongest in Python and TypeScript,
@@ -14,6 +14,7 @@ comfortable from database schema through to deployment.
 | [Food-Module](https://github.com/ctrl-kinge/Food-Module) | Multi-role food delivery platform in Next.js + TypeScript — customer, rider and restaurant dashboards, live Socket.IO tracking, traffic-aware Mapbox ETAs, Stripe split tipping. Vitest + Playwright |
 | [fraud-detection-cpp4103](https://github.com/ctrl-kinge/fraud-detection-cpp4103) | Mobile-money fraud detection over 6.3M PaySim transactions where fraud is 0.13% of records — four classifiers compared on precision-recall, served through a Streamlit checker |
 | [sales-forecaster](https://github.com/ctrl-kinge/sales-forecaster) | Retail demand forecasting — five models under a rolling-origin backtest, with a [live dashboard](https://ctrl-kinge.github.io/sales-forecaster/) in a multi-stage Docker build |
+| [trainer-app](https://github.com/ctrl-kinge/trainer-app) | Multi-tenant fitness SaaS — trainers build exercise libraries and assign workouts to their own clients. Tenant isolation enforced in the data layer, tested at unit, integration and e2e level |
 
 ## 🧪 Also here
 
