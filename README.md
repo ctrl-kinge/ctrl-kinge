@@ -1,6 +1,6 @@
 # Hi, I'm Adrian 👋
 
-**Junior software developer · final-year student at KCA University, graduating November 2026 · seeking an industrial attachment.**
+**Junior software developer. **
 
 I build complete systems rather than demos — role-based access, realtime updates,
 tests and CI, not just a working screen. Strongest in Python and TypeScript,
